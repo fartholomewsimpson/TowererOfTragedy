@@ -110,7 +110,7 @@
         "w": ["red, green, blue", "red, yellow, blue"]
     },
     {
-        "q": "How many destinations can Chuffy travel to?",
+        "q": "How many stations can Chuffy travel to?",
         "a": "7",
         "w": ["5", "6"]
     },
