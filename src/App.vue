@@ -33,9 +33,6 @@ export default {
   methods: {
     enter: function() {
       this.entered = true;
-      //TODO
-      this.won = true;
-      //
     },
     win: function() {
       this.won = true;
