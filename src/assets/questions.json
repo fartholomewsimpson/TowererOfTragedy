@@ -1,0 +1,107 @@
+[
+    {
+        "q": "How many of Mr. Patch's 12 patches do you need to break before he forces you into the air?",
+        "a": "1",
+        "w": ["2", "4"]
+    },
+    {
+        "q": "Which character from Banjo Kazooie is a carny at witchyworld?",
+        "a": "Conga",
+        "w": ["Chimpy", "Nipper"]
+    },
+    {
+        "q": "Which level is the first to feature Claw Clamber boots?",
+        "a": "Witchyworld",
+        "w": ["Grunty Industries", "Terrydactyland"]
+    },
+    {
+        "q": "Which of these levels does not include a Breegull Blaster (first person) segment?",
+        "a": "Cloud Cuckooland",
+        "w": ["Grunty Industries", "Terrydactyland"]
+    },
+    {
+        "q": "At the start of the game, how many years have passed since Grunty was first defeated?",
+        "a": "2",
+        "w": ["1", "3"]
+    },
+    {
+        "q": "When does Gruntilda finally stop rhyming?",
+        "a": "Just before blasting King Jingaling",
+        "w": ["Just after destroying Banjo and Kazooie's house", "Just after being ressurected"]
+    },
+    {
+        "q": "What is the name of the fish trapped under a rock outside Banjo and Kazooie's house?",
+        "a": "Roysten",
+        "w": ["Mr. Rogers", "Gillbert"]
+    },
+    {
+        "q": "The 3rd time you fight Klungo, what is his power?",
+        "a": "cloning",
+        "w": ["invisibility", "growth"]
+    },
+    {
+        "q": "Why is Klungo worried Mrs. Klungo won't want him anymore?",
+        "a": "he's increasingly uglier with each fight",
+        "w": ["He's soon to be unemployed", "he's a bad influence on their son"]
+    },
+    {
+        "q": "According to the doorman, which food is allowed to be eaten in Jiggywiggy's Temple?",
+        "a": "McJiggy's",
+        "w": ["Big Al's", "Jolly's"]
+    },
+    {
+        "q": "In which area do you find Heggy?",
+        "a": "Wooded Hollow",
+        "w": ["Jinjo Village", "Pateau"]
+    },
+    {
+        "q": "What is the name of Heggy's establishment?",
+        "a": "Heggy's Egg Shed",
+        "w": ["Heggy's Egg Shack", "Heggy's Egg Barn"]
+    },
+    {
+        "q": "Who's crops are scoffed by a plague of filthy flies?",
+        "a": "Bovina",
+        "w": ["Moolissa", "Dairy Sue"]
+    },
+    {
+        "q": "What are Targitzan's minions called?",
+        "a": "Moggies",
+        "w": ["Soggies", "Groggies"]
+    },
+    {
+        "q": "Why are you allowed into the Mayan Kickball Stadium?",
+        "a": "They are short a player",
+        "w": ["Your disguise fools the guard", "You prove that you have kickball skills"]
+    },
+    {
+        "q": "How does one qualify to join the witchyworld fan club?",
+        "a": "ride all the quality attractions and survive",
+        "w": ["Submit an application to Trevor, president of the fan club", "give a bribe to witchyworld management"]
+    },
+    {
+        "q": "Who is Salty Joe?",
+        "a": "Fry Seller",
+        "w": ["Pawn Shop owner", "drunken pirate"]
+    },
+    {
+        "q": "What is the first level you are able to enter from a different level?",
+        "a": "Terrydactyland",
+        "w": ["Glitter Gulch Mine", "Witchyworld"]
+    },
+    {
+        "q": "At witchyworld, what area does the Saucer of peril not enter",
+        "a": "the inferno",
+        "w": ["Crazy castle stockade", "Star Spinner"]
+    },
+    {
+        "q": "At witchyworld, what causes Gruntilda to call you a vandal and say you need to repair any damage caused?",
+        "a": "breaking the star spinner generator",
+        "w": ["breaking the cages in the cave of horrors", "breaking the cactus of strength"]
+    },
+    {
+        "q": "What kind of meat is used in Big Al's burgers",
+        "a": "Rodent",
+        "w": ["Bear", "Mystery"]
+    }
+]
