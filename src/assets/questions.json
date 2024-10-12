@@ -103,5 +103,180 @@
         "q": "What kind of meat is used in Big Al's burgers",
         "a": "Rodent",
         "w": ["Bear", "Mystery"]
+    },
+    {
+        "q": "What color are the competitors' helmets in the Dodgem Challenge?",
+        "a": "red, yellow, purple",
+        "w": ["red, green, blue", "red, yellow, blue"]
+    },
+    {
+        "q": "How many destinations can Chuffy travel to?",
+        "a": "6",
+        "w": ["5", "7"]
+    },
+    {
+        "q": "Which area is depicted in JiggyWiggy's puzzle for Jolly Roger's Lagoon?",
+        "a": "Ancient Swimming Baths",
+        "w": ["Seaweed Sanctum", "Smuggler's Cavern"]
+    },
+    {
+        "q": "What does it say on the sign at the entrance of Jolly Roger's Lagoon?",
+        "a": "To Ye Lagoone",
+        "w": ["Jolly Roger's Lagoone", "Ye Old Lagoone"]
+    },
+    {
+        "q": "What is the cheapest item on the menu at Jolly's?",
+        "a": "Salty Dumplings",
+        "w": ["Toad in the hole", "Seaman's surprise"]
+    },
+    {
+        "q": "What does Cap'n Blubber intend to spend his prize on if he wins the quiz night at Jolly's?",
+        "a": "a new flying machine",
+        "w": ["a new business", "a new boat"]
+    },
+    {
+        "q": "Who is the final character to appear in the game?",
+        "a": "Cap'n Blubber",
+        "w": ["Mingy Jongo", "Klungo"]
+    },
+    {
+        "q": "What is Banjo's excuse for intruding on Lord Woo Fak Fak?",
+        "a": "They are delivering his mail",
+        "w": ["They entered the wrong locker by mistake", "They want to take his jiggy"]
+    },
+    {
+        "q": "For how long did Lord Woo Fak Fak impose oceanic tyranny?",
+        "a": "100 years",
+        "w": ["150 years", "200 years"]
+    },
+    {
+        "q": "How many boils does Lord Woo Fak Fak have (before you pop them)?",
+        "a": "6",
+        "w": ["8", "4"]
+    },
+    {
+        "q": "Which move is learned in the Electric Eels' Lair at Jolly Roger's Lagoon?",
+        "a": "Talon Torpedo",
+        "w": ["Wing Whack", "Hatch"]
+    },
+    {
+        "q": "How many pigs can be found at Jolly Roger's Lagoon?",
+        "a": "3",
+        "w": ["2", "1"]
+    },
+    {
+        "q": "Which area is depicted in JiggyWiggy's puzzle for Jolly Roger's Lagoon?",
+        "a": "Train Station (fire side)",
+        "w": ["Icicle Grotto", "Colosseum Kickball Stadium"]
+    },
+    {
+        "q": "What is the name of the frozen explorer?",
+        "a": "sabreman",
+        "w": ["Leopold", "roysten"]
+    },
+    {
+        "q": "What species is Scrotty?",
+        "a": "Styracosaurus",
+        "w": ["Fox", "Stonie"]
+    },
+    {
+        "q": "Who are the armored cavemen?",
+        "a": "Rocknuts",
+        "w": ["Unga Bunga", "Oogle Boogle"]
+    },
+    {
+        "q": "Which spell does Mumbo use at Cliff top?",
+        "a": "Heal",
+        "w": ["Enlarge", "Levitate"]
+    },
+    {
+        "q": "What are terry's spit minions called?",
+        "a": "mucoids",
+        "w": ["Bogies", "Loogies"]
+    },
+    {
+        "q": "Which dinosaur lives in the mountain at Terrydactyland?",
+        "a": "terry",
+        "w": ["stomponadon", "dippy"]
+    },
+    {
+        "q": "How do you learn about long and short roars as a t-rex?",
+        "a": "stegasaurus",
+        "w": ["humba", "terry"]
+    },
+    {
+        "q": "To get the mega glowbo, which level do you enter Hailfire peaks from?",
+        "a": "Glitter gulch mine",
+        "w": ["Grunty Industries", "Jolly roger's Lagoon"]
+    },
+    {
+        "q": "Which level features banjo kazooie alum loggo the toilet?",
+        "a": "Grunty industries",
+        "w": ["cloud cuckooland", "Glitter Gulch Mine"]
+    },
+    {
+        "q": "At grunty industries, when you fly into the broken chimney, which floor do you end up on?",
+        "a": "3",
+        "w": ["4", "5"]
+    },
+    {
+        "q": "On which floor is Clinker's Cavern?",
+        "a": "4",
+        "w": ["3", "2"]
+    },
+    {
+        "q": "In what area do you fight Weldar?",
+        "a": "repair depot",
+        "w": ["boiler", "air conditioning plant"]
+    },
+    {
+        "q": "What is revealed under the building chilli billi destroys?",
+        "a": "a fly pad",
+        "w": ["a cheato page", "a jiggy"]
+    },
+    {
+        "q": "how many aliens must be resurrected?",
+        "a": "2",
+        "w": ["1", "3"]
+    },
+    {
+        "q": "which restaurant does chilly willy go to after you beat him?",
+        "a": "Mcjiggy's",
+        "w": ["Big Al's", "Jolly's"]
+    },
+    {
+        "q": "which themed area in witchyworld contains the entrance to the oogle boogle cave?",
+        "a": "space",
+        "w": ["western", "monster"]
+    },
+    {
+        "q": "what color is mingy jongo's house?",
+        "a": "pink",
+        "w": ["white", "gold"]
+    },
+    {
+        "q": "what doesn't mumbo's rain dance do?",
+        "a": "fill the thirsty dinosaur's pool",
+        "w": ["create a rainbow bridge", "make beanstalks grow"]
+    },
+    {
+        "q": "which of these characters lives in a trash can?",
+        "a": "guffo",
+        "w": ["scrotty", "loggo"]
+    },
+    {
+        "q": "Who is on the milk carton missing person photo?",
+        "a": "tooty",
+        "w": ["gruntilda", "bottles"]
+    },
+    {
+        "q": "Which of these challenges has no multiplayer variant?",
+        "a": "pot o' gold shooting challenge",
+        "w": ["trash can challenge", "packing room challenge"]
+    },
+    {
+        "q": "In the multiplayer shootout game, which types of eggs are available in the egg setting Bombs away?",
+        "a": "normal, ice, clockwork kazooie",
+        "w": ["normal, grenade, clockwork kazooie", "grenade, clockwork kazooie"]
     }
 ]
