@@ -120,6 +120,15 @@ export default {
     curQuestion() {
       return this.questions[0];
     },
+    curQuestionLength() {
+      let spaces = 0;
+      for (let i = 0; i < this.curQuestion.q.length; i++) {
+        if (this.curQuestion.q[i] === ' ') {
+          spaces++;
+        }
+      }
+      return spaces;
+    },
   },
   mounted() {
     this.initiate();
@@ -141,6 +150,8 @@ export default {
     },
     start: function() {
       this.started = true;
+      mumboUmenaka.play();
+      // this.speak();
     },
     scramble: function(array) {
       const times = Math.ceil(Math.random() * 3);
@@ -159,12 +170,14 @@ export default {
         this.score++;
       } else {
         this.mistakes++;
-        incorrect.play();
         smash.play();
         if (this.mistakes === 3) {
           this.lose = true;
+          song.pause();
+          song.currentTime = 0;
           failure.play();
         } else {
+          incorrect.play();
           mumboBad.play();
         }
       }
@@ -174,18 +187,33 @@ export default {
         success.play();
         mumboUmenaka.play();
       }
+      // else {
+      //   this.speak();
+      // }
     },
     reset: function() {
       if (this.lose === true) {
-        song.pause();
-        song.currentTime = 0;
         gruntyLaugh.play();
         setTimeout(this.initiate, 5000);
       }
     },
-    // speak: function(clips) {
-
+    // speak: async function() {
+    //   let curIndex = Math.ceil(Math.random() * gruntySpeech.length - 1);
+    //   for (let i = 0; i < this.curQuestionLength; i++) {
+    //     gruntySpeech[curIndex].pause();
+    //     gruntySpeech[curIndex].currentTime = 0;
+    //     gruntySpeech[curIndex].play();
+    //     const amount = (Math.random() * 300) + 100;
+    //     await this.delay(amount);
+    //     curIndex += Math.random() > .5 ? 1 : -1;
+    //     if (curIndex < 0) {
+    //       curIndex = gruntySpeech.length - 1;
+    //     } else if (curIndex >= gruntySpeech.length) {
+    //       curIndex = 0;
+    //     }
+    //   }
     // },
+    delay: (ms) => new Promise(resolve => setTimeout(resolve, ms)),
   },
 }
 </script>
