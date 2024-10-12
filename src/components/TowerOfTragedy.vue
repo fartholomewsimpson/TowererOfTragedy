@@ -183,6 +183,7 @@ export default {
       }
       this.questions.shift();
       if (this.questions.length === 0 && this.mistakes < 3) {
+        song.pause();
         this.$emit('win');
         success.play();
         mumboUmenaka.play();
