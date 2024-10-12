@@ -66,10 +66,10 @@ button {
   font-family: Comic Sans, Comic Sans MS, Arial, sans-serif;
   font-weight: bold;
   font-size: 40px;
-  min-width: 100px;
+  min-width: 80px;
   height: 100px;
-  margin-left: 10px;
-  margin-right: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
   color: #ffffff;
   border-radius: 10px;
   border: 2px solid rgb(36, 36, 36);
