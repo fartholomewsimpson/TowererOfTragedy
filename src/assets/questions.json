@@ -195,9 +195,9 @@
         "w": ["Bogies", "Loogies"]
     },
     {
-        "q": "Which dinosaur lives in the mountain at Terrydactyland?",
-        "a": "terry",
-        "w": ["stomponadon", "dippy"]
+        "q": "Which dinosaur lives inside the mountain at Terrydactyland?",
+        "a": "chompasaurus",
+        "w": ["stomponadon", "terry"]
     },
     {
         "q": "How do you learn about long and short roars as a t-rex?",
