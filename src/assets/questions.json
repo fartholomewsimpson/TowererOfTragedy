@@ -111,8 +111,8 @@
     },
     {
         "q": "How many destinations can Chuffy travel to?",
-        "a": "6",
-        "w": ["5", "7"]
+        "a": "7",
+        "w": ["5", "6"]
     },
     {
         "q": "Which area is depicted in JiggyWiggy's puzzle for Jolly Roger's Lagoon?",
